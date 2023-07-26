@@ -1,0 +1,292 @@
+{
+  "drinks": [
+    {
+      "name": "juice",
+      "image": "https://icdn.isrgrajan.com/in/2021/02/Indian-and-International-Healthy-Drinks-696x399.jpg",
+      "price": 50
+    },
+    {
+      "name": "orange_juice",
+      "image": "https://www.realactiv.com/common/images/images/healthy-drink.jpg",
+      "price": 40
+    },
+    {
+      "name": "soda",
+      "image": "https://tidbitsmag.com/wp-content/uploads/2016/10/Soft-Drinks.jpg",
+      "price": 30
+    },
+    {
+      "name": "cold_drinks",
+      "image": "https://dmrqkbkq8el9i.cloudfront.net/Pictures/480xany/4/0/4/290404_gettyimages13939919481_356998_crop.jpg",
+      "price": 70
+    },
+    {
+      "name": "sunkit",
+      "image": "https://i.mctimg.com/cdn-cgi/image/w=400,h=400,fit=pad/https://i.mctimg.com/file/f8611da82cb1206385f34d8c3f8cd86cc8e63916/0998dc9c9d0fd8626815d9db8d7bac688fc111f80c291fa3788bfae291e9bbc2",
+      "price": 100
+    },
+    {
+      "name": "cuppocino",
+      "image": "https://www.usatoday.com/gcdn/media/2019/01/18/USATODAY/usatsports/gettyimages-500740897.jpg?crop=1365,768,x0,y0&width=660&height=372&format=pjpg&auto=webp",
+      "price": 60
+    }
+  ],
+  "icecream": [
+    {
+      "name": "three flavour",
+      "image": "https://thumbs.dreamstime.com/b/chocolate-vanilla-strawberry-ice-cream-cone-white-background-clipping-path-42006740.jpg",
+      "price": 100
+    },
+    {
+      "name": "chocolate_ice",
+      "image": "https://www.milkmaid.in/sites/default/files/2020-07/Chocolate-Ice-Cream_0.jpg",
+      "price": 30
+    },
+    {
+      "name": "choco_stick",
+      "image": "https://atlas-content-cdn.pixelsquid.com/stock-images/chocolate-ice-cream-on-a-stick-G9G7WQF-600.jpg",
+      "price": 25
+    },
+    {
+      "name": "ice_sandwidch",
+      "image": "data:image/jpeg;base64,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",
+      "price": 20
+    },
+    {
+      "name": "ice_sanwidtch_cake",
+      "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2020/06/29/8641175_ice-cream-sandwich-cookies_s4x3.jpg.rend.hgtvcom.616.462.suffix/1593464221643.jpeg",
+      "price": 70
+    },
+    {
+      "name": "ice_sand",
+      "image": "https://www.feastingathome.com/wp-content/uploads/2013/02/icecream-sandwich-with-chocolate-heart-112.jpg",
+      "price": 50
+    },
+    {
+      "name": "peanut_brownie",
+      "image": "https://thissillygirlskitchen.com/wp-content/uploads/2022/07/Brownie-Ice-Cream-Sandwich-32-480x270.jpg",
+      "price": 75
+    },
+    {
+      "name": "bean_brownies",
+      "image": "https://minimalistbaker.com/wp-content/uploads/2013/04/Vegan-Gluten-Free-Black-Bean-Brownies-square.jpg",
+      "price": 90
+    },
+    {
+      "name": "candy ice-cream",
+      "image": "https://princesspinkygirl.com/wp-content/uploads/2020/07/Cotton-Candy-Ice-Cream-Square-500x500.jpg",
+      "price": 50
+    }
+  ],
+  "sweet": [
+    {
+      "name": "chhena_mitha",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-htkulbr79e6o3nlpv6epb0ekn2-20180227155006.jpeg",
+      "price": 150
+    },
+    {
+      "name": "laduu",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrXx0h5r4TL2H0ZBc6n-sbkrsXDetyjvkgF97PW1dNd8-oGPA3rITjb3q3oUpYUvS2pfU&usqp=CAU",
+      "price": 90
+    },
+    {
+      "name": "masinpag",
+      "image": "https://www.anandsweets.in/cdn/shop/products/MysorePak.png?v=1661338347&width=533",
+      "price": 160
+    },
+    {
+      "name": "gulab-jamun",
+      "image": "https://wellnessmunch.com/wp-content/uploads/2019/03/indian-sweet-371357_640.jpg",
+      "price": 130
+    },
+    {
+      "name": "khova",
+      "image": "https://mirchi.com/os/cdn/content/images/khova%20sweet%20small%20hanuman%20sweets_medium_0269316.webp",
+      "price": 190
+    },
+    {
+      "name": "peda",
+      "image": "https://www.rakhibazaar.com/blog/wp-content/uploads/2022/05/KajuKatli.jpg",
+      "price": 200
+    },
+    {
+      "name": "masal-food",
+      "image": "https://www.crazymasalafood.com/wp-content/images/barf-1.jpg",
+      "price": 110
+    },
+    {
+      "name": "jalebi",
+      "image": "https://st.depositphotos.com/5653638/52113/i/600/depositphotos_521139386-stock-photo-stock-photo-jalebi-jilbi-imarati.jpg",
+      "price": 60
+    },
+    {
+      "name": "rasgula",
+      "image": "https://5.imimg.com/data5/OQ/OX/MY-26511863/rasogola-500x500.png",
+      "price": 100
+    },
+    {
+      "name": "bengal-rasogala",
+      "image": "https://cookwithrenu.com/wp-content/uploads/2020/07/Featured-Image-500x500.jpg",
+      "price": 140
+    },
+    {
+      "name": "flower-burfi",
+      "image": "https://i.pinimg.com/originals/5c/19/81/5c19819a6c6a453b1a3da4120f35fa34.jpg",
+      "price": 135
+    },
+    {
+      "name": "ras-malei",
+      "image": "https://wp.scoopwhoop.com/wp-content/uploads/2014/07/567731076e510a6f3a7597ab_11.jpg",
+      "price": 120
+    }
+  ],
+  "meal": [
+    {
+      "name": "south-indian-meals",
+      "image": "https://farm8.staticflickr.com/7671/17269221094_6c0b6605a8_z.jpg",
+      "price": 65
+    },
+    {
+      "name": "tamil-meals",
+      "image": "https://femina.wwmindia.com/content/2023/apr/meals-011681386470.jpg",
+      "price": 75
+    },
+    {
+      "name": "meal_thali",
+      "image": "https://5.imimg.com/data5/FV/CJ/CU/SELLER-31983803/meal-thali-500x500.png",
+      "price": 70
+    },
+    {
+      "name": "round_meal",
+      "image": "https://t4.ftcdn.net/jpg/01/15/48/41/360_F_115484118_OFxvDHelhwIRAkNhXIfCZS6Py0eUyWJD.jpg",
+      "price": 120
+    },
+    {
+      "name": "veg_thali",
+      "image": "https://img-global.cpcdn.com/recipes/ce884d070a8abf57/680x482cq70/simple-veg-thali-recipe-main-photo.jpg",
+      "price": 50
+    },
+    {
+      "name": "satwik_thali",
+      "image": "https://i.pinimg.com/564x/7f/cc/77/7fcc779cd9c527d75715dbaac3b8a4cc.jpg",
+      "price": 50
+    },
+    {
+      "name": "jain-thali",
+      "image": "https://www.inditales.com/wp-content/uploads/2019/05/goan-vegetarian-thali.jpg",
+      "price": 110
+    },
+    {
+      "name": "gujurati-thali",
+      "image": "https://qph.cf2.quoracdn.net/main-qimg-432009317b2884000452f447d4349016-lq",
+      "price": 110
+    },
+    {
+      "name": "non-veg meal",
+      "image": "https://4.imimg.com/data4/XO/AW/ANDROID-7482634/product-500x500.jpeg",
+      "price": 220
+    }
+  ],
+  "others": [
+    {
+      "name": "idli",
+      "image": "https://www.ticklingpalates.com/wp-content/uploads/2020/06/Soft-Spongy-Idli-Recipe-500x500.jpg",
+      "price": 20
+    },
+    {
+      "name": "dosa",
+      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/07/dosa-recipe-3.jpg",
+      "price": 25
+    },
+    {
+      "name": "puri",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGYT93zmxpJwRBs8ICX7OF4DjC0KjoaCWpxA&usqp=CAU",
+      "price": 30
+    },
+    {
+      "name": "dahi-bara",
+      "image": "https://simmertoslimmer.com/wp-content/uploads/2015/05/Dahi-Vada.jpg",
+      "price": 30
+    },
+    {
+      "name": "samosa",
+      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/11/samosa-4.jpg",
+      "price": 25
+    },
+    {
+      "name": "onion-bara",
+      "image": "https://recipesinhindi.net/wp-content/uploads/2017/02/aalo-chop-recipe.jpg",
+      "price": 30
+    },
+    {
+      "name": "allu-tucha",
+      "image": "https://pbs.twimg.com/media/CWRNDF8W4AAfE6B.jpg",
+      "price": 40
+    },
+    {
+      "name": "allu-chop",
+      "image": "https://1.bp.blogspot.com/-C4wqItl9ZG8/X4ScUXbzC5I/AAAAAAAACO0/Fobo3qFA9qMSjIHdv4rRxjut0bV9WGLhgCLcBGAsYHQ/w601-h365/aloo-bonda-recipe-in-hindi-aloo-vada.PNG",
+      "price": 25
+    },
+    {
+      "name": "allu-chart",
+      "image": "https://i.ytimg.com/vi/xEfk24qeJII/hqdefault.jpg",
+      "price": 30
+    },
+    {
+      "name": "papdi-chart",
+      "image": "https://cookwithparul.com/wp-content/uploads/2021/08/maxresdefault-1-1-8.jpg",
+      "price": 30
+    },
+    {
+      "name": "maggie",
+      "image": "https://5.imimg.com/data5/XG/IR/GLADMIN-60795231/maggie-500x500.png",
+      "price": 30
+    },
+    {
+      "name": "pizza",
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2015/10/pizza-recipe-1.jpg",
+      "price": 120
+    },
+    {
+      "name": "cheest pepperoni pizza",
+      "image": "https://media.istockphoto.com/id/938742222/photo/cheesy-pepperoni-pizza.jpg?s=612x612&w=0&k=20&c=D1z4xPCs-qQIZyUqRcHrnsJSJy_YbUD9udOrXpilNpI=",
+      "price": 150
+    },
+    {
+      "name": "veg-pizza",
+      "image": "https://www.thursdaynightpizza.com/wp-content/uploads/2022/06/veggie-pizza-featured-image-3-500x375.png",
+      "price": 110
+    },
+    {
+      "name": "pizza",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/19/1e/1a/3a/pizza-hut.jpg",
+      "price": 130
+    },
+    {
+      "name": "burger",
+      "image": "https://media.istockphoto.com/id/1309352410/photo/cheeseburger-with-tomato-and-lettuce-on-wooden-board.jpg?s=612x612&w=0&k=20&c=lfsA0dHDMQdam2M1yvva0_RXfjAyp4gyLtx4YUJmXgg=",
+      "price": 100
+    },
+    {
+      "name": "momos",
+      "image": "https://foodiewish.com/wp-content/uploads/2020/04/momos-recipe.jpeg",
+      "price": 60
+    },
+    {
+      "name": "mushroom",
+      "image": "https://i0.wp.com/spicykitchen.net/wp-content/uploads/2015/10/chillimushrrom.jpg?fit=650%2C433&ssl=1",
+      "price": 200
+    },
+    {
+      "name": "pani-puri",
+      "image": "https://cdn1.foodviva.com/static-content/food-images/snacks-recipes/pani-puri/pani-puri.jpg",
+      "price": 30
+    },
+    {
+      "name": "petis",
+      "image": "https://5.imimg.com/data5/MX/RQ/YR/ANDROID-55448289/product-jpeg.jpg",
+      "price": 35
+    }
+  ]
+}
