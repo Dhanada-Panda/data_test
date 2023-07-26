@@ -1,23 +1,23 @@
 {
   "drinks": [
     {
-      "name": "juice",
-      "image": "https://www.hi5mart.com/image/cache/catalog/DRINKS%20AND%20BEVERAGES/sprite/sprite%20600ml-750x750.jpg",
-      "price": 50
+      "name": "energy_drink",
+      "image": "https://www.xssjuices.com/wp-content/uploads/elementor/thumbs/energy-drink-small-1-e1678169261618-q3si8iqs5nzorwx7bwc08gievsrwv6uvtx0ygjfyd4.png",
+      "price": 25
     },
     {
-      "name": "orange_juice",
-      "image": "https://thumbs.dreamstime.com/b/fariety-cold-drinks-small-glasses-cocktails-drinks-fariety-cold-drinks-small-glasses-cocktails-drinks-fariety-cold-160773829.jpg",
-      "price": 40
+      "name": "sprite",
+      "image": "https://www.shutterstock.com/image-photo/orange-juice-small-medium-large-260nw-39003619.jpg",
+      "price": 25
     },
     {
       "name": "soda",
-      "image": "https://cdn.shoplightspeed.com/shops/643741/files/52097874/712x712x1/rtd-strawberry-rhubarb-a-zest-of-lime-gin-cocktail.jpg",
+      "image": "https://www.shutterstock.com/image-photo/variety-cold-drinks-small-bottles-260nw-425146273.jpg",
       "price": 30
     },
     {
       "name": "cold_drinks",
-      "image": "https://dmrqkbkq8el9i.cloudfront.net/Pictures/480xany/4/0/4/290404_gettyimages13939919481_356998_crop.jpg",
+      "image": "https://static.toiimg.com/thumb/msid-68562297,width-400,height-300,resizemode-75,imgsize-950123/68562297.jpg",
       "price": 70
     },
     {
