@@ -6,7 +6,7 @@
       "price": 25
     },
     {
-      "name": "sprite",
+      "name": "orange_juice",
       "image": "https://www.shutterstock.com/image-photo/orange-juice-small-medium-large-260nw-39003619.jpg",
       "price": 25
     },
@@ -28,27 +28,27 @@
   ],
   "icecream": [
     {
-      "name": "three flavour",
+      "name": "strwaberry",
       "image": "https://img.freepik.com/premium-photo/bowl-with-pink-scoops-sweet-cold-ice-cream-decorated-with-juicy-raspberries-fresh-mint-leaf_244366-1019.jpg?w=360",
       "price": 100
     },
     {
-      "name": "chocolate_ice",
+      "name": "chocolate_cake",
       "image": "https://cakelinks.in/cdn/shop/products/0026137_gourmet_coffee_chocolate_cake_385_512x.jpeg?v=1529488000",
       "price": 30
     },
     {
-      "name": "choco_stick",
+      "name": "vanila",
       "image": "https://img.freepik.com/free-photo/delicious-ice-cream_144627-19516.jpg?w=360",
       "price": 25
     },
     {
-      "name": "ice_sanwidtch_cake",
+      "name": "ice_cake",
       "image": "https://www.sendbestgift.com/media/images/product/Chocolate-Cake.jpg",
       "price": 70
     },
     {
-      "name": "ice_sand",
+      "name": "three flavors",
       "image": "https://img.etimg.com/thumb/msid-70279706,width-300,height-225,imgsize-46798,,resizemode-75/ice-cream.jpg",
       "price": 50
     },
@@ -58,7 +58,7 @@
       "price": 75
     },
     {
-      "name": "bean_brownies",
+      "name": "bean_icecream",
       "image": "https://e2rvpv7nqoq.exactdn.com/wp-content/uploads/2018/08/sm-Chocolate-Chip-Cookie-Dough.jpg?strip=all&lossy=1&fit=300%2C233&ssl=1",
       "price": 90
     },
@@ -185,12 +185,12 @@
     },
     {
       "name": "dahi-bara",
-      "image": "https://simmertoslimmer.com/wp-content/uploads/2015/05/Dahi-Vada.jpg",
+      "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Waagmi_Soni/Dahi_Vada_400.jpg",
       "price": 30
     },
     {
       "name": "samosa",
-      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/11/samosa-4.jpg",
+      "image": "https://d4pmlgzenkweq.cloudfront.net/2f9cnjym8iu7n75ousz7nsgjbgvq",
       "price": 25
     },
     {
